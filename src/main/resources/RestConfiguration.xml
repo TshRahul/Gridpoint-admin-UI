@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > -->
+<!DOCTYPE suite  >
+<RestCleint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RestLogin>
+		<envName>local</envName>
+		<envDropdown>Dev</envDropdown>
+		<userName>AutoDevTest</userName>
+		<password>P@ssword1!</password>
+		<MassCECUSerName>mschae</MassCECUSerName>
+		<MassCECPassword>ufuwir</MassCECPassword>
+	</RestLogin>
+
+	<ApiAddressPath>
+		<publicApiloginPath>/publicApi/services/auth/login</publicApiloginPath>
+		<HvacApi>/publicApi/services/user/premises/9554121264/firmwareTypes</HvacApi>
+		<GetAllHvacDetails>/publicApi/services/data/getLogicalUnits?premisesIds=</GetAllHvacDetails>
+		<getProject>/publicApi/portal/v1/projectTracking/project/</getProject>
+		<getHvacShowFeedData>/publicApi/assets/data/getShowFeedData.json</getHvacShowFeedData>
+		<getAllSiteDetails>/publicApi/portal/v1/sites</getAllSiteDetails>
+		<getAllSitesUserSpecific>/publicApi/portal/v1/sitetree</getAllSitesUserSpecific>
+		<getGroupAlarms>/publicApi/services/alarm/getGroupAlarms</getGroupAlarms>
+		<getAllProecjts>/publicApi/portal/v1/projectTracking/projects</getAllProecjts>
+		<viewProjectSummary>/publicApi/portal/v1/projectTracking/projectSummary/</viewProjectSummary>
+		<viewProjectBaseLine>/publicApi/portal/v1/projectTracking/baseline/</viewProjectBaseLine>
+		<getProjectTypes>/publicApi/portal/v1/projectTracking/projectTypes</getProjectTypes>
+		<getGoalTypes>/publicApi/portal/v1/projectTracking/projectGoalTypes</getGoalTypes>
+		<getGoalTrajectories>/publicApi/portal/v1/projectTracking/projectGoalTrajectories</getGoalTrajectories>
+		<getGoal>/publicApi/portal/v1/projectTracking/projectGoal/{goalId}</getGoal>
+		<getFinancialByProject>/publicApi/portal/v1/projectTracking/projectFinancials/{projectId}</getFinancialByProject>
+		<getHVACScheduleTask><![CDATA[/publicApi/services/data/getLogicalUnitSchedules?premisesIds=]]></getHVACScheduleTask>
+		<getScheduleTaskStatu><![CDATA[/publicApi/services/user/getConfigTasks]]></getScheduleTaskStatu>
+		<getSiteHoursDetails>/publicApi/portal/v1/siteHours?premisesIds=</getSiteHoursDetails>
+	</ApiAddressPath>
+</RestCleint>

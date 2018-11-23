@@ -1,0 +1,23 @@
+Tenant,Site ID(Name),Site Name(Description),Address 1,City,State/Province,Postal Code,Country
+,UI_TestSiteBulkImport_01,UI_TestSiteBulkImport_Address_01,2801 Clarendon Blvd,Arlington,VA,24017,US
+GridPoint Test Automation,,UI_TestSiteBulkImport_Address_02,2802 Clarendon Blvd,Arlington,NY,24017,US
+GridPoint Test Automation,UI_TestSiteBulkImport_03,,2803 Clarendon Blvd,Roanoke,TN,24019,US
+GridPoint Test Automation,UI_TestSiteBulkImport_04,UI_TestSiteBulkImport_Address_04,,Reston,AL,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_05,UI_TestSiteBulkImport_Address_05,2805 Clarendon Blvd,,AZ,37023,US
+GridPoint Test Automation,UI_TestSiteBulkImport_06,UI_TestSiteBulkImport_Address_06,2806 Clarendon Blvd,Reston,,37023,US
+GridPoint Test Automation,UI_TestSiteBulkImport_07,UI_TestSiteBulkImport_Address_07,2807 Clarendon Blvd,Reston,IA,,US
+GridPoint Test Automation,UI_TestSiteBulkImport_08,UI_TestSiteBulkImport_Address_08,2808 Clarendon Blvd,Reston,IN,20190,
+GridPoint Test Automation,UI_TestSiteBulkImport_09,UI_TestSiteBulkImport_Address_09,2809 Clarendon Blvd,Reston,MI,37023,Canada
+GridPoint Test Automation,UI_TestSiteBulkImport_10,UI_TestSiteBulkImport_Address_10,2810 Clarendon Blvd,Reston,MO,20190,United States
+GridPoint Test Automation,UI_TestSiteBulkImport_11,UI_TestSiteBulkImport_Address_11,2811 Clarendon Blvd,Reston,MT,20190,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_12,UI_TestSiteBulkImport_Address_12,2812 Clarendon Blvd,Reston,NV,K1A 0G9,US
+GridPoint Test Automation,UI_TestSiteBulkImport_13,UI_TestSiteBulkImport_Address_13,2813 Clarendon Blvd,Reston,BC,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_14,UI_TestSiteBulkImport_Address_14,2814 Clarendon Blvd,Reston,Tennessee,37023,US
+GridPoint Test Automation,UI_TestSiteBulkImport_15,UI_TestSiteBulkImport_Address_15,2815 Clarendon Blvd,Reston,ND,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_16,UI_TestSiteBulkImport_Address_16,2816 Clarendon Blvd,Arlington,NY,22201,US
+GridPoint Test Automation,UI_TestSiteBulkImport_17,UI_TestSiteBulkImport_Address_17,2817 Clarendon Blvd,Arlington,TN,22201,US
+GridPoint Test Automation,UI_TestSiteBulkImport_18,UI_TestSiteBulkImport_Address_18,2818 Clarendon Blvd,Roanoke,NY,22201,US
+GridPoint Test Automation,UI_TestSiteBulkImport_19,UI_TestSiteBulkImport_Address_19,2819 Clarendon Blvd,Reston,TN,22201,US
+Tenant_Undefined,UI_TestSiteBulkImport_20,UI_TestSiteBulkImport_Address_20,2819 Clarendon Blvd,Reston,TN,22201,US
+GridPoint Test Automation,UI_TestSiteBulkImport_21,UI_TestSiteBulkImport_Address_21,2812 Clarendon Blvd,Reston,BC,K1A 0G9,US
+GridPoint Test Automation,UI_TestSiteBulkImport_19,Already_Exist_UI_TestSiteBulkImport_Address_19,2819 Clarendon Blvd,Reston,TN,22201,US

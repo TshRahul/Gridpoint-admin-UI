@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Configuration">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Gridpoint">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="waittime" type="xs:long" />
+							<xs:element name="browser" type="xs:string" />
+							<xs:element name="envName" type="xs:string" />
+							<xs:element name="envDropdown" type="xs:string"/>
+							<xs:element name="userName" type="xs:string" />
+							<xs:element name="password" type="xs:string" />
+							<xs:element name="AdminuserName" type="xs:string" />
+							<xs:element name="Adminpassword" type="xs:string" />
+							<xs:element name="userNoPT" type="xs:string" />
+							<xs:element name="pwdNoPT" type="xs:string" />
+							<xs:element name="emailValue" type="xs:string" />
+							<xs:element name="username_locator" type="xs:string" />
+							<xs:element name="password_locator" type="xs:string" />
+							<xs:element name="button_locator" type="xs:string" />
+							<xs:element name="AdminuserName_locator" type="xs:string" />
+							<xs:element name="Adminpassword_locator" type="xs:string" />
+							<xs:element name="AdminLoginbutton_locator" type="xs:string" />
+							<xs:element name="AdminLogoutbutton_locator" type="xs:string" />
+							<xs:element name="mydownloadlocator" type="xs:string" />
+							<xs:element name="Adminemail_locator" type="xs:string" />
+							<xs:element name="Adminunlockbutton_locator" type="xs:string" />
+							<xs:element name="AdminsubmitLink_locator" type="xs:string" />
+							<xs:element name="logoutButton_locator" type="xs:string" />
+							<xs:element name="singleSite_Username" type="xs:string" />
+							<xs:element name="singleSite_Password" type="xs:string" />
+							<xs:element name="siteManagerRole_Username" type="xs:string" />
+							<xs:element name="siteManagerRole_Password" type="xs:string" />
+							<xs:element name="CIInternalAnalystRole_Username" type="xs:string" />
+							<xs:element name="CIInternalAnalystRole_Password" type="xs:string" />
+							<xs:element name="dropDown_SelectApiServer" type="xs:string" />
+							<xs:element name="advancedreportuser" type="xs:string" />
+							<xs:element name="advancedreportuserpassword" type="xs:string" />
+							<xs:element name="ApiURL" type="xs:string"/>
+							<xs:element name="Adminemail_locator" type="xs:string"/>
+							</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Environment_URl">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="AdminURL" type="xs:string" />
+							 <xs:element name="Test" type="xs:string" />
+						    <xs:element name="local" type="xs:string" />
+							<xs:element name="Dev" type="xs:string" />
+							<xs:element name="Qa" type="xs:string" />
+							<xs:element name="Staging" type="xs:string" />
+							<xs:element name="Production" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

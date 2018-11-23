@@ -1,0 +1,16 @@
+{"intervals":[{"devices":[{"deviceAddress":-400001,"channels":[{"channelType":1401,"value":10}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400005,"channels":[{"channelType":2051,"value":30}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400006,"channels":[{"channelType":1204,"value":40}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400007,"channels":[{"channelType":1207,"value":-50}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400008,"channels":[{"channelType":1214,"value":60}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400009,"channels":[{"channelType":1215,"value":70}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400010,"channels":[{"channelType":119,"value":80}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400011,"channels":[{"channelType":129,"value":90}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400012,"channels":[{"channelType":122,"value":100}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400013,"channels":[{"channelType":138,"value":150}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400014,"channels":[{"channelType":144,"value":200}]}],"durationMsecs":300000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400020,"channels":[{"channelType":166,"value":200}]}],"durationMsecs":300000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400021,"channels":[{"channelType":116,"value":200}]}],"durationMsecs":900000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400023,"channels":[{"channelType":1328,"value":20}]}],"durationMsecs":60000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400024,"channels":[{"channelType":1704,"value":200}]}],"durationMsecs":300000,"endTime":1494845100000}]}
+{"intervals":[{"devices":[{"deviceAddress":-400025,"channels":[{"channelType":1707,"value":100}]}],"durationMsecs":900000,"endTime":1494845100000}]}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration [<!ENTITY configuration SYSTEM "../../../modulesSuite.xml">]>
+<Configuration>
+	<gridpoint>
+		<browser>chrome</browser>
+		<env>awsqa</env>
+		<chromeDriverVersion>2.42</chromeDriverVersion>
+	</gridpoint>
+
+	<environment_url>
+		<devtest1>https://ems-dev-test1.gridpoint.com/login</devtest1>
+		<devtest2>https://ems-dev-test2.gridpoint.com/login</devtest2>
+		<devmasterempotral>https://ems-dev-master.gridpoint.com/emportal</devmasterempotral>
+		<devtest2empotral>https://ems-dev-test2.gridpoint.com/emportal</devtest2empotral>
+		<devmasternewalrmsui>https://dev-master-app01.master.dev.eng.gridpoint.com:8442/definitions/create</devmasternewalrmsui>
+		<local>http://localhost:9090/admin</local>
+		<dev>https://ems-dev-master.gridpoint.com</dev>
+		<devaws>https://ems-dev.aws-gridpoint.com/login</devaws>
+		<qa>https://ems-qa-master.gridpoint.com/login</qa>
+		<awsqa>https://ems-qa-master.awsqa-gridpoint.com/login</awsqa>
+		<qait>https://ems-qa-it.awsqa-gridpoint.com/login</qait>
+		<qaperf>https://ems-qa-perf.awsqa-gridpoint.com/login</qaperf>
+		<qamaws>https://ems-qa-master.aws-gridpoint.com/login</qamaws>
+		<qaraws>https://ems-qa-release.aws-gridpoint.com/login</qaraws>
+		<configurl>https://qa-master-app00.master.qa.eng.gridpoint.com:8080/publicapi/spring_security_login</configurl>
+		<staging>https://ems-staging.gridpoint.com/login</staging>
+		<production>https://ems.gridpoint.com/login</production>
+	</environment_url>
+
+	<userlogincredentials>
+		<devtest1_username>gpadmin</devtest1_username>
+		<devtest1_password>Reston2018</devtest1_password>
+		<devtest2_username>gpadmin</devtest2_username>
+		<devtest2_password>P@ssword1!</devtest2_password>
+		<local_username>gpadmin</local_username>
+		<local_password>password</local_password>
+		<dev_username>gpadmin</dev_username>
+		<dev_password>P@ssword1!</dev_password>
+		<devaws_username>dsgpadmin</devaws_username>
+		<devaws_password>P@ssword1!</devaws_password>
+		<qaaws_username>gpadmin</qaaws_username>
+		<qaaws_password>P@ssword1!</qaaws_password>
+		<qamaws_username>autoAdminTest</qamaws_username>
+		<qamaws_password>P@ssword1!</qamaws_password>
+		<awsqa_username>autoAdminTest</awsqa_username>
+		<awsqa_password>P@ssword1!</awsqa_password>
+		<qait_username>autoAdminTest</qait_username>
+		<qait_password>P@ssword1!</qait_password>
+		<qaperf_username>autoAdminTest</qaperf_username>
+		<qaperf_password>P@ssword1!</qaperf_password>
+		<qaraws_username>autoAdminTest</qaraws_username>
+		<qaraws_password>P@ssword1!</qaraws_password>
+		<qa_username>gpadmin</qa_username>
+		<qa_password>P@ssword1!</qa_password>
+	</userlogincredentials>
+
+	<databaseconfig>
+		<devtest1>jdbc:postgresql://dev-test1-db00.test1.dev.eng.gridpoint.com/gpup</devtest1>
+		<devtest2>jdbc:postgresql://10.201.66.6/gpup</devtest2>
+		<local>jdbc:postgresql://localhost:5432/gpup</local>
+		<dev>jdbc:postgresql://dev-master-db00.master.dev.eng.gridpoint.com/gpup</dev>
+		<devaws>jdbc:postgresql://postgres-dev.cemgqwi3kw6n.us-east-1.rds.amazonaws.com:5432/gpup</devaws>
+		<awsqa>jdbc:postgresql://postgres-qa-master.cf3unjet9dub.us-east-1.rds.amazonaws.com:5432/gpup</awsqa>
+		<qamaws>jdbc:postgresql://postgres-qa-master.cemgqwi3kw6n.us-east-1.rds.amazonaws.com:5432/gpup</qamaws>
+		<qaraws>jdbc:postgresql://postgres-qa-release.cemgqwi3kw6n.us-east-1.rds.amazonaws.com:5432/gpup</qaraws>
+		<qait>jdbc:postgresql://postgres-qa-it.cf3unjet9dub.us-east-1.rds.amazonaws.com:5432/gpup</qait>
+		<qaperf>jdbc:postgresql://postgres-qa-perf.cf3unjet9dub.us-east-1.rds.amazonaws.com:5432/gpup</qaperf>
+		<qa>jdbc:postgresql://qa-master-db00.master.qa.eng.gridpoint.com/gpup</qa>
+		<devtest2hostname>jdbc:postgresql://dev-test2-db00.test2.dev.eng.gridpoint.com/gpup</devtest2hostname>
+	</databaseconfig>
+
+	<databaseuserconfig>
+		<devtest1_username>gpup</devtest1_username>
+		<devtest1_password>gpup</devtest1_password>
+		<devtest2_username>gpup</devtest2_username>
+		<devtest2_password>gpup</devtest2_password>
+		<local_username>gpup</local_username>
+		<local_password>gpup</local_password>
+		<dev_username>gpup</dev_username>
+		<dev_password>gpup</dev_password>
+		<devaws_username>gpup</devaws_username>
+		<devaws_password>C0ff33H0us3!</devaws_password>
+		<awsqa_username>gpup</awsqa_username>
+		<awsqa_password>C0ff33H0us3!</awsqa_password>
+		<qamaws_username>gpup</qamaws_username>
+		<qamaws_password>C0ff33H0us3!</qamaws_password>
+		<qaraws_username>gpup</qaraws_username>
+		<qaraws_password>C0ff33H0us3!</qaraws_password>
+		<qait_username>gpup</qait_username>
+		<qait_password>C0ff33H0us3!</qait_password>
+		<qaperf_username>gpup</qaperf_username>
+		<qaperf_password>C0ff33H0us3!</qaperf_password>
+		<qa_username>gpup</qa_username>
+		<qa_password>gpup</qa_password>
+	</databaseuserconfig>
+
+	<apiconfig>
+		<durationMsecs>900000</durationMsecs>
+		<dataFile>src/main/resources/datafile.xls</dataFile>
+		<adminUsername>autoAdminTest</adminUsername>
+		<adminPassword>P@ssword1!</adminPassword>
+		<dbUsername>gpup</dbUsername>
+		<dbPassword>C0ff33H0us3!</dbPassword>
+	</apiconfig>
+
+</Configuration>

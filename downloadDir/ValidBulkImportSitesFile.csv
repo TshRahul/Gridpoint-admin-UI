@@ -1,0 +1,105 @@
+Tenant,Site ID(Name),Site Name(Description),Address 1,City,State/Province,Postal Code,Country
+GridPoint Test Automation,UI_TestSiteBulkImport_01,UI_TestSiteBulkImport_Address_01,Arlington,Arlington,VA,22201,US
+GridPoint Test Automation,UI_TestSiteBulkImport_02,UI_TestSiteBulkImport_Address_02,Iowa City,Iowa City,IA,52240,US
+GridPoint Test Automation,UI_TestSiteBulkImport_03,UI_TestSiteBulkImport_Address_03,Denver,Denver,CO,80262,US
+GridPoint Test Automation,UI_TestSiteBulkImport_04,UI_TestSiteBulkImport_Address_04,Prescott,Prescott,AZ,86301,US
+GridPoint Test Automation,UI_TestSiteBulkImport_05,UI_TestSiteBulkImport_Address_05,Halifax Central,Halifax Central,NS,B3L 0A4,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_06,UI_TestSiteBulkImport_Address_06,LOS ANGELES,LOS ANGELES,CA,90001,US
+GridPoint Test Automation,UI_TestSiteBulkImport_07,UI_TestSiteBulkImport_Address_07,Anchorage,Anchorage,AK,99501,US
+GridPoint Test Automation,UI_TestSiteBulkImport_08,UI_TestSiteBulkImport_Address_08,Aiea,Aiea,HI,96801,US
+GridPoint Test Automation,UI_TestSiteBulkImport_09,UI_TestSiteBulkImport_Address_09,VANCOUVER,VANCOUVER,BC,V5K 0A8,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_10,UI_TestSiteBulkImport_Address_10,ABERCORN,ABERCORN,QC,J0E 1B0,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_11,UI_TestSiteBulkImport_Address_11,48 AIRPORT HEIGHTS DR ST. JOHN'S,Saint John,NL,A1A 4Z7,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_12,UI_TestSiteBulkImport_Address_12,WINNIPEG,WINNIPEG,MB,R2N 3Y3,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_13,UI_TestSiteBulkImport_Address_13,1 EDMONTON CITY CENTR,EDMONTON ,AB,T5J 4H5,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_14,UI_TestSiteBulkImport_Address_14,Big Rock,Big Rock,TN,37023,US
+GridPoint Test Automation,UI_TestSiteBulkImport_15,UI_TestSiteBulkImport_Address_15,Reston,Reston,VA,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_16,UI_TestSiteBulkImport_Address_16,Adams,Adams,TN,37010,US
+GridPoint Test Automation,UI_TestSiteBulkImport_17,UI_TestSiteBulkImport_Address_17,BOUCTOUCHE ,BOUCTOUCHE ,NB,E4S 4L9,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_18,UI_TestSiteBulkImport_Address_18,Huntsville,Huntsville,AL,35824,US
+GridPoint Test Automation,UI_TestSiteBulkImport_19,UI_TestSiteBulkImport_Address_19,Big Rock,Big Rock,TN,37023,US
+GridPoint Test Automation,UI_TestSiteBulkImport_20,UI_TestSiteBulkImport_Address_20,Iowa City,Iowa City,IA,52240,US
+GridPoint Test Automation,UI_TestSiteBulkImport_21,UI_TestSiteBulkImport_Address_21,Iowa City,Iowa City,IA,52240,US
+GridPoint Test Automation,UI_TestSiteBulkImport_22,UI_TestSiteBulkImport_Address_22,Iowa City,Iowa City,IA,52240,US
+GridPoint Test Automation,UI_TestSiteBulkImport_23,UI_TestSiteBulkImport_Address_23,2823 Clarendon Blvd,Reston,NL,K1A 0B1,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_24,UI_TestSiteBulkImport_Address_24,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_25,UI_TestSiteBulkImport_Address_25,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_26,UI_TestSiteBulkImport_Address_26,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_27,UI_TestSiteBulkImport_Address_27,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_28,UI_TestSiteBulkImport_Address_28,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_29,UI_TestSiteBulkImport_Address_29,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_30,UI_TestSiteBulkImport_Address_30,LOS ANGELES,LOS ANGELES,CA,90005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_31,UI_TestSiteBulkImport_Address_31,5006 STN FORCES BELLEVILLE,BELLEVILLE,ON,K8N 5W6,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_32,UI_TestSiteBulkImport_Address_32,Celina,Celina,TX,75009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_33,UI_TestSiteBulkImport_Address_33,Celina,Celina,TX,75009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_34,UI_TestSiteBulkImport_Address_34,Celina,Celina,TX,75009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_35,UI_TestSiteBulkImport_Address_35,Celina,Celina,TX,75009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_36,UI_TestSiteBulkImport_Address_36,Celina,Celina,TX,75009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_37,UI_TestSiteBulkImport_Address_37,Celina,Celina,TX,75009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_38,UI_TestSiteBulkImport_Address_38,Washington,Washington,DC,20001,US
+GridPoint Test Automation,UI_TestSiteBulkImport_39,UI_TestSiteBulkImport_Address_39,Washington,Washington,DC,20002,US
+GridPoint Test Automation,UI_TestSiteBulkImport_40,UI_TestSiteBulkImport_Address_40,Washington,Washington,DC,20005,US
+GridPoint Test Automation,UI_TestSiteBulkImport_41,UI_TestSiteBulkImport_Address_41,Washington,Washington,DC,20003,US
+GridPoint Test Automation,UI_TestSiteBulkImport_42,UI_TestSiteBulkImport_Address_42,Clancy,Clancy,MT,59634,US
+GridPoint Test Automation,UI_TestSiteBulkImport_43,UI_TestSiteBulkImport_Address_43,BELLEVILLE,BELLEVILLE,ON,K8N 5W6,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_44,UI_TestSiteBulkImport_Address_44,Alexandria,Alexandria,IN,46001,US
+GridPoint Test Automation,UI_TestSiteBulkImport_45,UI_TestSiteBulkImport_Address_45,Arvada,Arvada,CO,80001,US
+GridPoint Test Automation,UI_TestSiteBulkImport_46,UI_TestSiteBulkImport_Address_46,Forrest City,Forrest City,AR,72335,US
+GridPoint Test Automation,UI_TestSiteBulkImport_47,UI_TestSiteBulkImport_Address_47,Forrest City,Forrest City,AR,72335,US
+GridPoint Test Automation,UI_TestSiteBulkImport_48,UI_TestSiteBulkImport_Address_48,Delaware City,Delaware City,DE,19706,US
+GridPoint Test Automation,UI_TestSiteBulkImport_49,UI_TestSiteBulkImport_Address_49,OTTAWA,OTTAWA,ON,K1A 0B1,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_50,UI_TestSiteBulkImport_Address_50,Jacksonville,Jacksonville,FL,32218,US
+GridPoint Test Automation,UI_TestSiteBulkImport_51,UI_TestSiteBulkImport_Address_51,McDonough,McDonough,GA,30253,US
+GridPoint Test Automation,UI_TestSiteBulkImport_52,UI_TestSiteBulkImport_Address_52,Pocatello,Pocatello,ID,83209,US
+GridPoint Test Automation,UI_TestSiteBulkImport_53,UI_TestSiteBulkImport_Address_53,Elk Grove Village,Elk Grove Village,IL,60007,US
+GridPoint Test Automation,UI_TestSiteBulkImport_54,UI_TestSiteBulkImport_Address_54,Bonner Springs,Bonner Springs,KS,66012,US
+GridPoint Test Automation,UI_TestSiteBulkImport_55,UI_TestSiteBulkImport_Address_55,Louisville,Louisville,KY,40202,US
+GridPoint Test Automation,UI_TestSiteBulkImport_56,UI_TestSiteBulkImport_Address_56,Louisiana,Louisiana,LA,63353,US
+GridPoint Test Automation,UI_TestSiteBulkImport_57,UI_TestSiteBulkImport_Address_57,Nebraska City,Nebraska City,NE,68410,US
+GridPoint Test Automation,UI_TestSiteBulkImport_58,UI_TestSiteBulkImport_Address_58,BELLEVILLE,BELLEVILLE,ON,K8N 5W6,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_59,UI_TestSiteBulkImport_Address_59,Endicott,Endicott,NY,13760,US
+GridPoint Test Automation,UI_TestSiteBulkImport_60,UI_TestSiteBulkImport_Address_60,Laurel,Laurel,MD,20724,US
+GridPoint Test Automation,UI_TestSiteBulkImport_61,UI_TestSiteBulkImport_Address_61,Boston,Massachusetts,MA,02101,US
+GridPoint Test Automation,UI_TestSiteBulkImport_62,UI_TestSiteBulkImport_Address_62,New Haven,New Haven,CT,06501,US
+GridPoint Test Automation,UI_TestSiteBulkImport_63,UI_TestSiteBulkImport_Address_63,Manchester,New Hampshire,NH,03102,US
+GridPoint Test Automation,UI_TestSiteBulkImport_64,UI_TestSiteBulkImport_Address_64,Avenel,New Jersey,NJ,07001,US
+GridPoint Test Automation,UI_TestSiteBulkImport_65,UI_TestSiteBulkImport_Address_65,Barrington,Barrington,RI,02806,US
+GridPoint Test Automation,UI_TestSiteBulkImport_66,UI_TestSiteBulkImport_Address_66,Richmond,Richmond,VT,05477,US
+GridPoint Test Automation,UI_TestSiteBulkImport_67,UI_TestSiteBulkImport_Address_67,Abie,Abie,NE,68001,US
+GridPoint Test Automation,UI_TestSiteBulkImport_68,UI_TestSiteBulkImport_Address_68,Las Vegas,Las Vegas,NV,89127,US
+GridPoint Test Automation,UI_TestSiteBulkImport_69,UI_TestSiteBulkImport_Address_69,Royal Oak,Royal Oak,MI,48067,US
+GridPoint Test Automation,UI_TestSiteBulkImport_70,UI_TestSiteBulkImport_Address_70,Albuquerque,Albuquerque,NM,87102,US
+GridPoint Test Automation,UI_TestSiteBulkImport_71,UI_TestSiteBulkImport_Address_71,New York,New York,NY,10004,US
+GridPoint Test Automation,UI_TestSiteBulkImport_72,UI_TestSiteBulkImport_Address_72,Belews Creek,Belews Creek,NC,27009,US
+GridPoint Test Automation,UI_TestSiteBulkImport_73,UI_TestSiteBulkImport_Address_73,OTTAWA,OTTAWA,ON,K1A 0B1,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_74,UI_TestSiteBulkImport_Address_74,Minnesota City,Minnesota City,MN,55959,US
+GridPoint Test Automation,UI_TestSiteBulkImport_75,UI_TestSiteBulkImport_Address_75,Watford City,Watford City,ND,58854,US
+GridPoint Test Automation,UI_TestSiteBulkImport_76,UI_TestSiteBulkImport_Address_76,Ohio City,Ohio City,OH,45874,US
+GridPoint Test Automation,UI_TestSiteBulkImport_77,UI_TestSiteBulkImport_Address_77,Choctaw,Choctaw,OK,73020,US
+GridPoint Test Automation,UI_TestSiteBulkImport_78,UI_TestSiteBulkImport_Address_78,Oregon City,Oregon City,OR,97045,US
+GridPoint Test Automation,UI_TestSiteBulkImport_79,UI_TestSiteBulkImport_Address_79,Philadelphia,Philadelphia,PA,19092,US
+GridPoint Test Automation,UI_TestSiteBulkImport_80,UI_TestSiteBulkImport_Address_80,Arkabutla,Arkabutla,MS,38602,US
+GridPoint Test Automation,UI_TestSiteBulkImport_81,UI_TestSiteBulkImport_Address_81,Charleston,Charleston,SC,29402,US
+GridPoint Test Automation,UI_TestSiteBulkImport_82,UI_TestSiteBulkImport_Address_82,Keystone,Keystone,SD,57751,US
+GridPoint Test Automation,UI_TestSiteBulkImport_83,UI_TestSiteBulkImport_Address_83,St. Louis,St. Louis,MO,63101,US
+GridPoint Test Automation,UI_TestSiteBulkImport_84,UI_TestSiteBulkImport_Address_84,Kanab,Kanab,UT,84741,US
+GridPoint Test Automation,UI_TestSiteBulkImport_85,UI_TestSiteBulkImport_Address_85,Washington,Washington,WA,20022,US
+GridPoint Test Automation,UI_TestSiteBulkImport_86,UI_TestSiteBulkImport_Address_86,Bramwell,Bramwell,WV,24715,US
+GridPoint Test Automation,UI_TestSiteBulkImport_87,UI_TestSiteBulkImport_Address_87,Kewaskum,Kewaskum,WI,53040,US
+GridPoint Test Automation,UI_TestSiteBulkImport_88,UI_TestSiteBulkImport_Address_88,Yellowstone National Park,Yellowstone National Park,WY,82190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_89,UI_TestSiteBulkImport_Address_89,Dawson,Dawson,YT,Y0B 1G0,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_90,UI_TestSiteBulkImport_Address_90,Reston,Reston,VA,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_91,UI_TestSiteBulkImport_Address_91,Reston,Reston,VA,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_92,UI_TestSiteBulkImport_Address_92,Reston,Reston,VA,20190,US
+GridPoint Test Automation,UI_TestSiteBulkImport_93,UI_TestSiteBulkImport_Address_93,Aklavik,Aklavik,NT,X0E 0A0,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_94,UI_TestSiteBulkImport_Address_94,Winnipeg,Winnipeg,MB,R2C 0A1,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_95,UI_TestSiteBulkImport_Address_95,Baie de Bouctouche,Baie de Bouctouche,NB,E4S 4L9,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_96,UI_TestSiteBulkImport_Address_96,Aklavik,Aklavik,NT,X0E 0A0,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_97,UI_TestSiteBulkImport_Address_97,Aklavik,Aklavik,NT,X0E 0A0,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_98,UI_TestSiteBulkImport_Address_98,Winnipeg,Winnipeg,MB,R2C 0A1,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_99,UI_TestSiteBulkImport_Address_99,Baie de Bouctouche,Baie de Bouctouche,NB,E4S 4L9,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_100,UI_TestSiteBulkImport_Address_100,Aklavik,Aklavik,NT,X0E 0A0,CA
+GridPoint Test Automation,UI_TestSiteBulkImport_101,UI_TestSiteBulkImport_Address_101,Roanoke,Roanoke,VA,24017,US
+GridPoint Test Automation,UI_TestSiteBulkImport_102,UI_TestSiteBulkImport_Address_102,Roanoke,Roanoke,VA,24017,US
+GridPoint Test Automation,UI_TestSiteBulkImport_103,UI_TestSiteBulkImport_Address_103,Roanoke,Roanoke,VA,24017,US
+GridPoint Test Automation,UI_TestSiteBulkImport_104,UI_TestSiteBulkImport_Address_104,Roanoke,Roanoke,VA,24017,US
